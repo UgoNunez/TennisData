@@ -17,7 +17,7 @@ public class adm {
 		System.out.println("Los datos ingresados fueron: ");
 		System.out.println("Username = " + username);
 		System.out.println("Password = " + password);
-		if (username == "oreste" && password == "fish"){
+		if (username.equals("oreste") && password.equals("fish")){
 			System.out.println("Welcome to the system");
 		}else{
 			System.out.println("Error with the login, please try again");
