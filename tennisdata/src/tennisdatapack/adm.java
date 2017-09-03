@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class adm {
 	public static void main(String[] args){
 		System.out.println("Welcome to Tennis Data");
+		System.out.println("======================");
 		System.out.println("");
 		//It's important that the user log in.
 		System.out.print("Enter your user name: ");
