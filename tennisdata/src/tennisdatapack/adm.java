@@ -17,6 +17,8 @@ public class adm {
 		System.out.println("Los datos ingresados fueron: ");
 		System.out.println("Username = " + username);
 		System.out.println("Password = " + password);
+		System.out.println("");
+		System.out.println("Now the system must control the login");
 		scanner.close();
 	}
 }
