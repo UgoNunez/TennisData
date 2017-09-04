@@ -19,6 +19,7 @@ public class adm {
 		System.out.println("Password = " + password);
 		System.out.println("");
 		System.out.println("Now the system must control the login");
+		System.out.println("Something simple like an if, only to play");
 		scanner.close();
 	}
 }
