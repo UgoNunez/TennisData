@@ -24,6 +24,7 @@ public class adm {
 		}else{
 			System.out.println("Error with the login, please try again");
 		}
+		System.out.println("");
 		scanner.close();
 	}
 }
