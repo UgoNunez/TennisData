@@ -18,12 +18,14 @@ public class adm {
 		System.out.println("Username = " + username);
 		System.out.println("Password = " + password);
 		System.out.println("");
-		// This is my attent to control de login
+		// This is my attempt to control the login
 		if (username.equals("oreste") && password.equals("fish")){
 			System.out.println("Welcome to the system");
 		}else{
 			System.out.println("Error with the login, please try again");
 		}
+		System.out.println("");
+		System.out.println("Estoy en OM en eclipse");
 		scanner.close();
 	}
 }
