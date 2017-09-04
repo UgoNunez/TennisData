@@ -25,7 +25,10 @@ public class adm {
 			System.out.println("Error with the login, please try again");
 		}
 		System.out.println("");
+<<<<<<< HEAD
 		System.out.println("Estoy en OM en eclipse");
+=======
+>>>>>>> branch 'master' of https://github.com/OresteMaresca/TennisData.git
 		scanner.close();
 	}
 }
